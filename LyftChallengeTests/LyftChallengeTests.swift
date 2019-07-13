@@ -13,6 +13,8 @@ class LyftChallengeTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
+        var g: String? = nil
+        print(g!)
     }
 
     override func tearDown() {
